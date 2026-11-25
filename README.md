@@ -2,7 +2,7 @@
 
 #### I am a software engineer, builder, and cycling fanatic.
 
-👨‍💻 Founder at [Klippros](https://klippros.com), building [Kudoro](https://kudoro.cc) and [Komate](https://komate.app);<br>
+👨‍💻 Founder at [Klippros](https://klippros.com), building [Kudoro](https://kudoro.cc), [Komate](https://klippros.com/komate), and [Open Dart](https://opendart.app);<br>
 🚐 Remote in Europe, living in a van I built.<br>
 
 - 🧰 I use daily: `TypeScript`, `React Native`, `React`, `Expo`, `Swift`, `Kotlin`, `Figma`, `Cursor`
